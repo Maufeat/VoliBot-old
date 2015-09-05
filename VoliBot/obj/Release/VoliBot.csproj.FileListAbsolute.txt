@@ -1,0 +1,8 @@
+C:\Users\Sahin\Documents\Visual Studio 2015\Projects\VoliBot\VoliBot\obj\Release\VoliBot.csprojResolveAssemblyReference.cache
+C:\Users\Sahin\Documents\Visual Studio 2015\Projects\VoliBot\VoliBot\obj\Release\VoliBot.AccountManager.resources
+C:\Users\Sahin\Documents\Visual Studio 2015\Projects\VoliBot\VoliBot\obj\Release\VoliBot.Properties.Resources.resources
+C:\Users\Sahin\Documents\Visual Studio 2015\Projects\VoliBot\VoliBot\obj\Release\VoliBot.vClient.resources
+C:\Users\Sahin\Documents\Visual Studio 2015\Projects\VoliBot\VoliBot\obj\Release\VoliBot.VoliBot.resources
+C:\Users\Sahin\Documents\Visual Studio 2015\Projects\VoliBot\VoliBot\obj\Release\VoliBot.WelcomeWindow.resources
+C:\Users\Sahin\Documents\Visual Studio 2015\Projects\VoliBot\VoliBot\obj\Release\VoliBot.csproj.GenerateResource.Cache
+C:\Users\Sahin\Documents\Visual Studio 2015\Projects\VoliBot\VoliBot\bin\Release\VoliBot.exe.config

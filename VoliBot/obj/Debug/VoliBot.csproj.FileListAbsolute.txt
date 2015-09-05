@@ -1,0 +1,15 @@
+c:\users\sahin\documents\visual studio 2015\Projects\VoliBot\VoliBot\bin\Debug\VoliBot.exe.config
+c:\users\sahin\documents\visual studio 2015\Projects\VoliBot\VoliBot\bin\Debug\VoliBot.exe
+c:\users\sahin\documents\visual studio 2015\Projects\VoliBot\VoliBot\bin\Debug\VoliBot.pdb
+c:\users\sahin\documents\visual studio 2015\Projects\VoliBot\VoliBot\obj\Debug\VoliBot.Properties.Resources.resources
+c:\users\sahin\documents\visual studio 2015\Projects\VoliBot\VoliBot\obj\Debug\VoliBot.csproj.GenerateResource.Cache
+c:\users\sahin\documents\visual studio 2015\Projects\VoliBot\VoliBot\obj\Debug\VoliBot.exe
+c:\users\sahin\documents\visual studio 2015\Projects\VoliBot\VoliBot\obj\Debug\VoliBot.pdb
+c:\users\sahin\documents\visual studio 2015\Projects\VoliBot\VoliBot\obj\Debug\VoliBot.VoliBot.resources
+c:\users\sahin\documents\visual studio 2015\Projects\VoliBot\VoliBot\obj\Debug\VoliBot.vClient.resources
+c:\users\sahin\documents\visual studio 2015\Projects\VoliBot\VoliBot\obj\Debug\VoliBot.AccountManager.resources
+C:\Users\Sahin\Documents\Visual Studio 2015\Projects\VoliBot\VoliBot\obj\Debug\VoliBot.WelcomeWindow.resources
+C:\Users\Sahin\Documents\Visual Studio 2015\Projects\VoliBot\VoliBot\obj\Debug\VoliBot.AccountManager_ADD.resources
+C:\Users\Sahin\Documents\Visual Studio 2015\Projects\VoliBot\VoliBot\obj\Debug\VoliBot.AccountManager_TEST.resources
+C:\Users\Sahin\Documents\Visual Studio 2015\Projects\VoliBot\VoliBot\obj\Debug\VoliBot.old_volibot.resources
+C:\Users\Sahin\Documents\Visual Studio 2015\Projects\VoliBot\VoliBot\obj\Debug\VoliBot.console.resources
